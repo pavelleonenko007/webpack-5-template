@@ -12,3 +12,4 @@ const b = {
 }
 
 console.log('a');
+console.log('test');
