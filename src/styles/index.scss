@@ -1,0 +1,17 @@
+@use "global";
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: global.$bg;
+    color: #333;
+    font-size: 16px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
